@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Found this little 'feature' via CodePen
+#### Found this little 'feature' via CodePen
 
 <!--
 **jlabs/jlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
